@@ -1,2 +1,2 @@
-- I like to script games. So far in roblox.
-- Using github as a way to save created script.
+- I like to script games. So far just in roblox.
+- Using github as a way to save created scripts.
